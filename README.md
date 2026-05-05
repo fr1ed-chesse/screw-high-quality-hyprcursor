@@ -6,5 +6,5 @@
 
 SCREW YOUR HIGH QUALITY CURSORS!!!
 --
-extra notes: BEWARE install.sh is not fully developed, it assumes "~/.local/share/icons" exists and will immediately set itself, and assumes that a directory named "screw-high-quality-hyprcursor" does not exist, if it does then i reccomend not running this script
+extra notes: BEWARE install.sh is not fully developed, it assumes "~/.local/share/icons" exists and will immediately set itself, and assumes that a directory named "screw-high-quality-hyprcursor" does not exist, if it does then i reccomend not running this script, and also assumes you have git installed on your computer
 
