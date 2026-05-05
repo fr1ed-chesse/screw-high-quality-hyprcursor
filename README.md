@@ -1,0 +1,1 @@
+# screw-high-quality-hyprcursor
